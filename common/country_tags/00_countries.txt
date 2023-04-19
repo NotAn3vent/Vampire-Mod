@@ -1,0 +1,37 @@
+JAP	= "countries/Japan.txt"
+ENG = "countries/England.txt"
+SOV = "countries/Soviet Union.txt"
+FRA	= "countries/France.txt"
+MEN = "countries/Mengkukuo.txt"
+CHI = "countries/China.txt"
+PRC = "countries/ComChina.txt"
+USA = "countries/USA.txt"
+MAN = "countries/Manchukou.txt"
+
+##Western/Central Europe
+ITA = "countries/Italy.txt"
+GER	= "countries/Germany.txt"
+CZE	= "countries/Czechia.txt"
+POL	= "countries/Poland.txt"
+AUS	= "countries/Austria.txt"
+HUN = "countries/Hungary.txt"
+SLO = "countries/Slovakia.txt"
+
+##Yugoslavia releasables
+SER = "countries/Serbia.txt"
+CRO = "countries/Croatia.txt"
+SLV = "countries/Slovenia.txt"
+BOS = "countries/Bosnia.txt"
+MAC = "countries/Macedonia.txt"
+MNT = "countries/Montenegro.txt"
+KOS = "countries/Kosovo.txt"
+
+##Eastern/Southern Europe
+UKR = "countries/Ukraine.txt"
+ROM = "countries/Romania.txt"
+YUG = "countries/Yugoslavia.txt"
+TUR = "countries/Turkey.txt"
+GRE = "countries/Greece.txt"
+ALB = "countries/Albania.txt"
+BUL = "countries/Bulgaria.txt"
+MOL = "countries/Moldova.txt"
